@@ -1,0 +1,13 @@
+﻿# TESS raw FITS — download on-demand via skill (python agn_beats.py download)
+data/tess_lc/*.fits
+!data/tess_lc/1ES1927_s0016.fits
+!data/tess_lc/README.md
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db

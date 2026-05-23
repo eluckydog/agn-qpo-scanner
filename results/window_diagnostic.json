@@ -1,0 +1,198 @@
+{
+  "1ES 1959p650": {
+    "n_points": 62,
+    "baseline_days": 1965.7138133272529,
+    "baseline_years": 5.381831111094463,
+    "window_peaks": [
+      {
+        "period_days": 58.93238809506179,
+        "strength": 0.731027091965008
+      },
+      {
+        "period_days": 277.0722696958021,
+        "strength": 0.6767249964534756
+      },
+      {
+        "period_days": 37.1114045301001,
+        "strength": 0.488064336731808
+      },
+      {
+        "period_days": 75.4816673908426,
+        "strength": 0.45379554813821615
+      },
+      {
+        "period_days": 127.60253675581403,
+        "strength": 0.37498817279838986
+      }
+    ],
+    "strongest_peak_days": 58.93238809506179
+  },
+  "3C 273": {
+    "n_points": 697,
+    "baseline_days": 2653.932862642221,
+    "baseline_years": 7.266072176980756,
+    "window_peaks": [
+      {
+        "period_days": 56.88533618322208,
+        "strength": 0.30467193361737555
+      },
+      {
+        "period_days": 29.206680879883088,
+        "strength": 0.26809474251721904
+      },
+      {
+        "period_days": 14.693173329627632,
+        "strength": 0.10632267382560774
+      },
+      {
+        "period_days": 11.581217143172472,
+        "strength": 0.09645609266805304
+      },
+      {
+        "period_days": 14.196731482691701,
+        "strength": 0.07628462940187568
+      }
+    ],
+    "strongest_peak_days": 56.88533618322208
+  },
+  "BL Lac": {
+    "n_points": 1151,
+    "baseline_days": 2726.828424154781,
+    "baseline_years": 7.465649347446354,
+    "window_peaks": [
+      {
+        "period_days": 58.45282940064909,
+        "strength": 0.4494602992644662
+      },
+      {
+        "period_days": 289.437216449767,
+        "strength": 0.33484314616928157
+      },
+      {
+        "period_days": 73.02146175544877,
+        "strength": 0.27915459111612206
+      },
+      {
+        "period_days": 49.91659344795903,
+        "strength": 0.2467493671192839
+      },
+      {
+        "period_days": 87.88505633396623,
+        "strength": 0.24002273614950284
+      }
+    ],
+    "strongest_peak_days": 58.45282940064909
+  },
+  "M81* Optical": {
+    "n_points": 951,
+    "baseline_days": 2764.226863932796,
+    "baseline_years": 7.568040695230105,
+    "window_peaks": [
+      {
+        "period_days": 57.19912791715368,
+        "strength": 0.5069370992785244
+      },
+      {
+        "period_days": 265.2512485873409,
+        "strength": 0.08978118629206862
+      },
+      {
+        "period_days": 14.474688397618243,
+        "strength": 0.0774125545614334
+      },
+      {
+        "period_days": 76.73332711835036,
+        "strength": 0.059149592445439395
+      },
+      {
+        "period_days": 135.52641942848967,
+        "strength": 0.04426266712239573
+      }
+    ],
+    "strongest_peak_days": 57.19912791715368
+  },
+  "OJ 287": {
+    "n_points": 962,
+    "baseline_days": 2754.298957254272,
+    "baseline_years": 7.540859568115734,
+    "window_peaks": [
+      {
+        "period_days": 56.99273630769228,
+        "strength": 0.5127778950673815
+      },
+      {
+        "period_days": 292.2704750817041,
+        "strength": 0.3627523111075989
+      },
+      {
+        "period_days": 77.89440118951202,
+        "strength": 0.24424022396498873
+      },
+      {
+        "period_days": 49.205992867772935,
+        "strength": 0.2303083507321404
+      },
+      {
+        "period_days": 71.81637258681631,
+        "strength": 0.22417610251268758
+      }
+    ],
+    "strongest_peak_days": 56.99273630769228
+  },
+  "PG 1302m102": {
+    "n_points": 301,
+    "baseline_days": 2657.897014223505,
+    "baseline_years": 7.276925432507885,
+    "window_peaks": [
+      {
+        "period_days": 29.136727350286137,
+        "strength": 0.3372663566128465
+      },
+      {
+        "period_days": 58.200989413341574,
+        "strength": 0.24691849356940904
+      },
+      {
+        "period_days": 11.629466387692775,
+        "strength": 0.118071646266263
+      },
+      {
+        "period_days": 14.49811894119789,
+        "strength": 0.11670725800337917
+      },
+      {
+        "period_days": 120.48877792664734,
+        "strength": 0.11284543872731471
+      }
+    ],
+    "strongest_peak_days": 29.136727350286137
+  },
+  "PSO J334.2028p01.4075": {
+    "n_points": 570,
+    "baseline_days": 2696.714898194652,
+    "baseline_years": 7.383203006693092,
+    "window_peaks": [
+      {
+        "period_days": 57.81145823952255,
+        "strength": 0.2886347943698462
+      },
+      {
+        "period_days": 29.04469196529916,
+        "strength": 0.1135313384542978
+      },
+      {
+        "period_days": 126.09667654924499,
+        "strength": 0.10524754181286251
+      },
+      {
+        "period_days": 44.988896432979466,
+        "strength": 0.07711111069732444
+      },
+      {
+        "period_days": 286.25939841306956,
+        "strength": 0.055540724888113985
+      }
+    ],
+    "strongest_peak_days": 57.81145823952255
+  }
+}
